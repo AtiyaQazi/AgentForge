@@ -530,5 +530,3 @@ The MCP server is the primary agent-facing interface, while the dashboard and pu
 ## License
 
 This project is currently provided as a personal/project implementation.
-
-Add a formal license if the repository is intended for public reuse or distribution.
